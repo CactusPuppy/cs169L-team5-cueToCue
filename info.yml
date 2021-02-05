@@ -1,0 +1,50 @@
+project:
+  name: 'cs169L-team5-cueToCue'
+  owner: 'CactusPuppy'
+  teamId: 'team5'
+  identities:
+    pivotal:
+      url: 'https://www.pivotaltracker.com/n/projects/2487872'
+    heroku:
+      url: 'https://cs169l-sp2021-team5-cuetocue.herokuapp.com'
+    travis:
+      url: 'https://travis-ci.com/github/CactusPuppy/cs169L-team5-cueToCue'
+    codecov:
+      url: 'url'
+  members:
+    member1:
+      name: 'Rajavi'
+      surname: 'Mishra' 
+      githubUsername: 'rajavi-mishra'
+      pivotalUsername: '@rajavimishra'
+      herokuEmail: 'rajavi.mishra@berkeley.edu'
+    member2:
+      name: 'Vidhi'
+      surname: 'Chander' 
+      githubUsername: 'vidhichander'
+      pivotalUsername: '@vidhic'
+      herokuEmail: 'vidhichander@berkeley.edu'
+    member3:
+      name: 'Jimmy'
+      surname: 'Xu' 
+      githubUsername: 'kingdish'
+      pivotalUsername: '@kingdish'
+      herokuEmail: 'jimmyxu1997@berkeley.edu'
+    member4:
+      name: 'Coby'
+      surname: 'Zhong' 
+      githubUsername: 'CactusPuppy'
+      pivotalUsername: '@cobyzhong'
+      herokuEmail: 'coby.zhong@berkeley.edu'
+    member5:
+      name: 'Esha'
+      surname: 'Madhekare' 
+      githubUsername: 'madhekare'
+      pivotalUsername: '@eshamadhekar'
+      herokuEmail: 'esha@berkeley.edu'
+    member6:
+      name: 'Ziyi'
+      surname: 'Lu' 
+      githubUsername: 'lzy-106'
+      pivotalUsername: '@lzy_1006'
+      herokuEmail: 'lzy-1006@berkeley.edu'
