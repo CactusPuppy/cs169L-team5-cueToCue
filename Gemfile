@@ -19,6 +19,10 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
+# Even though this gem is only required for rake tasks, heroku needs it to run
+# pre-receive rake tasks hook so it is included for production environment.
+gem 'rubyzip'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
