@@ -37,3 +37,6 @@
 
 # Ignore .ruby-gemset (allow users to define their own naming schema for the gemset, if desired)
 .ruby-gemset
+
+# Ignore code coverage data
+/coverage/
