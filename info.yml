@@ -1,7 +1,7 @@
 project:
-  name: 'cs169L-team5-cueToCue'
-  owner: 'CactusPuppy'
-  teamId: 'team5'
+  name: 'q2q'
+  owner: 'cs169'
+  teamId: '5'
   identities:
     pivotal:
       url: 'https://www.pivotaltracker.com/n/projects/2487872'
@@ -9,8 +9,6 @@ project:
       url: 'https://cs169l-sp2021-team5-cuetocue.herokuapp.com'
     travis:
       url: 'https://travis-ci.com/github/CactusPuppy/cs169L-team5-cueToCue'
-    codecov:
-      url: 'url'
   members:
     member1:
       name: 'Rajavi'
